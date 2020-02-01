@@ -1,0 +1,19 @@
+{
+  "name": "citicardreporter",
+  "version": "1.0.0",
+  "description": "a baby node app to parse the annual account summary from Citi credit cards and look at that data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanemery/citiCardReporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanemery/citiCardReporter/issues"
+  },
+  "homepage": "https://github.com/seanemery/citiCardReporter#readme"
+}
